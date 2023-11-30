@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/82/e7/23/82e723caf0a88a0a900a64c352431e3c.jpg)
+![MasterHead](https://i.pinimg.com/originals/82/e7/23/82e723caf0a88a0a900a64c352431e3c.jpg)
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate software developer in Istanbul</h3>
 
